@@ -10,5 +10,8 @@
     .navbar-home img {
         max-height: 128px;
     }
+    .login-content.page-card {
+        background: #ada025;
+    }
     
     
