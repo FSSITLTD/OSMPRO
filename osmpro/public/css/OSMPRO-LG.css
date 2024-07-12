@@ -1,0 +1,16 @@
+:root, [data-theme=light] {
+    --navbar-bg: #d1d8dd;
+    --control-bg: #abd8e5;
+    }
+    
+    .navbar {
+        height: 148px;
+        background: var(--navbar-bg);
+    }
+    .navbar-home img {
+        max-height: 128px;
+    }
+    
+    .login-content.page-card {
+        background: #ada025;
+    }
