@@ -18,3 +18,19 @@
     .widget.onboarding-widget-box {
         background: #ebb3c7;
     }
+    h4 {
+        font-family: Quache !important;
+        font-weight: 900 !important;
+        
+        }
+        
+        h3 {
+            font-family: Quache !important;
+            font-weight: 900 !important;
+            color: #11b965;
+            
+            }
+        label.control-label.reqd {
+            font-family: Quache !important;
+            font-weight: 900 !important;
+        }
