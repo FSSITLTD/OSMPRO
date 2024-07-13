@@ -17,3 +17,9 @@
     div#page-login {
         BACKGROUND: azure  !important ;
     }
+
+    @media (min-width: 576px) {
+        body {
+            background-color:azure;
+        }
+    }
