@@ -12,7 +12,7 @@
     }
     
     .login-content.page-card {
-        background: #ada025;
+        background: #ada025 !important;
     }
     div#page-login {
         BACKGROUND: azure  !important ;
@@ -20,6 +20,9 @@
 
     @media (min-width: 576px) {
         body {
-            background-color:azure;
+            background-color:azure !important;
         }
+    }
+    .page-card-head img {
+        max-height: 142px !important;
     }
