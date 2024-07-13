@@ -15,7 +15,7 @@
         background: #ada025 !important;
     }
     div#page-login {
-        BACKGROUND: azure  !important ;
+        background-color: transparent !important ;
     }
 
     @media (min-width: 576px) {
@@ -25,4 +25,7 @@
     }
     .page-card-head img {
         max-height: 142px !important;
+    }
+    nav.navbar.navbar-light.navbar-expand-lg {
+        visibility: hidden;
     }
