@@ -1,8 +1,9 @@
 :root, [data-theme=light] {
     --navbar-bg: #d1d8dd;
     --control-bg: #abd8e5;
+    --bg-color: white;
+    --bg-color: #eff6be;
     }
-    
     .navbar {
         height: 148px;
         background: var(--navbar-bg);
@@ -14,4 +15,6 @@
         background: #ada025;
     }
     
-    
+    .widget.onboarding-widget-box {
+        background: #ebb3c7;
+    }
