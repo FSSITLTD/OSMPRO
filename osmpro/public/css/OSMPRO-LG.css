@@ -29,3 +29,6 @@
     nav.navbar.navbar-light.navbar-expand-lg {
         visibility: hidden;
     }
+    .btn.btn-primary {
+        background-color: #aa3660;
+    }
