@@ -12,6 +12,7 @@ app_license = "gpl-3.0"
 # include js, css files in header of desk.html
 app_include_css = [
 	"/assets/osmpro/css/OSMPRO-DESK.css",
+	"/assets/osmpro/css/fonts.css",
 	#ii
 ]
 # app_include_css = "/assets/osmpro/css/osmpro.css"
@@ -21,6 +22,7 @@ app_include_css = [
 # web_include_css = "/assets/osmpro/css/osmpro.css"
 web_include_css = [
 	"/assets/osmpro/css/OSMPRO-LG.css",
+	"/assets/osmpro/css/fonts.css",
 	#ii
 ]
 
