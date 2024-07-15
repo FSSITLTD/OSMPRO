@@ -37,10 +37,13 @@
         .btn.btn-primary  {
             background-color: #aa3660;
         }
-        .btn.btn-primary :hover {
-            background-color: #365baa;
+       
+        label.control-label {
+            font-size: 20px; 
+            color: #aa3660;
+            font-family: Quache !important;
+            font-weight: 900 !important;
         }
-        
 
 
         
