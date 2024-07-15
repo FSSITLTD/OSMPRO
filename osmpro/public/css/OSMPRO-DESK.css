@@ -37,6 +37,10 @@
         .btn.btn-primary  {
             background-color: #aa3660;
         }
-        .btn.btn-primary  {
+        .btn.btn-primary :hover {
             background-color: #365baa;
+        }
+        
+
+
         }

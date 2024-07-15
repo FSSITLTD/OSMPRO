@@ -36,3 +36,9 @@
         font-family: Quache !important;
         font-weight: 900 !important;
         }
+
+        input#login_email {
+            font-family: Quache;
+            font-weight: 300;
+        }
+        
