@@ -34,3 +34,9 @@
             font-family: Quache !important;
             font-weight: 900 !important;
         }
+        .btn.btn-primary  {
+            background-color: #aa3660;
+        }
+        .btn.btn-primary  {
+            background-color: #365baa;
+        }
