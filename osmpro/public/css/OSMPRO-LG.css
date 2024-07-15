@@ -110,12 +110,12 @@
         .for-login .page-card .page-card-body .email-field input, .for-login .page-card .page-card-body .password-field input, .for-forgot .page-card .page-card-body .email-field input, .for-forgot .page-card .page-card-body .password-field input, .for-login-with-email-link .page-card .page-card-body .email-field input, .for-login-with-email-link .page-card .page-card-body .password-field input, .for-signup .page-card .page-card-body .email-field input, .for-signup .page-card .page-card-body .password-field input, .for-email-login .page-card .page-card-body .email-field input, .for-email-login .page-card .page-card-body .password-field input{
             font-family: 'Quache';
             font-size: 15px;
-            color: #aa3660;
+            color: #aa3660 !important;
 
         }
         .page-card-body .email-field input, .for-login .page-card .page-card-body .password-field input, .for-forgot .page-card .page-card-body .email-field input, .for-forgot .page-card .page-card-body .password-field input, .for-login-with-email-link .page-card .page-card-body .email-field input, .for-login-with-email-link .page-card .page-card-body .password-field input, .for-signup .page-card .page-card-body .email-field input, .for-signup .page-card .page-card-body .password-field input, .for-email-login .page-card .page-card-body .email-field input, .for-email-login .page-card .page-card-body .password-field input {
-            font-family: 'Quache';
-            font-size: 15px;
+            font-family: 'Quache' !important;
+            font-size: 15px !important;
             color: #aa3660 !important;
 
         }
