@@ -91,4 +91,13 @@
             font-weight: 900 !important;
 
         }
-        
+        .for-login .page-card .page-card-body .login-divider, .for-forgot .page-card .page-card-body .login-divider, .for-login-with-email-link .page-card .page-card-body .login-divider, .for-signup .page-card .page-card-body .login-divider, .for-email-login .page-card .page-card-body .login-divider {
+            font-family: 'Quache';
+            font-size: 15px;
+            color: #aa3660;
+        }
+        .for-login .page-card .page-card-body .forgot-password-message>*, .for-forgot .page-card .page-card-body .forgot-password-message>*, .for-login-with-email-link .page-card .page-card-body .forgot-password-message>*, .for-signup .page-card .page-card-body .forgot-password-message>*, .for-email-login .page-card .page-card-body .forgot-password-message>* {
+            font-family: 'Quache';
+            font-size: 15px;
+            color: #aa3660;
+        }
