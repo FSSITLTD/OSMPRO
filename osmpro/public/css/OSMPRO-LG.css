@@ -56,3 +56,11 @@
             font-weight: 900;
             color: #aa3660;
         }
+        button.btn.btn-sm.btn-primary.btn-block.btn-login {
+            font-family: 'Quache';
+            font-weight: 900;
+        }
+        a.btn.btn-block.btn-default.btn-sm.btn-login-option.btn-login-with-email-link {
+            font-family: 'Quache';
+            font-weight: 900;
+        }
