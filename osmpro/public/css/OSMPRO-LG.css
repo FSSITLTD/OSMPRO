@@ -65,8 +65,8 @@
             font-weight: 900;
         }
         text-center sign-up-message {
-            font-family: 'Quache';
-            font-weight: 900;
+            font-family: 'Quache' !important;
+            font-weight: 900 !important;
         
         }
         .btn:not(.btn-md):not(.btn-lg) {
