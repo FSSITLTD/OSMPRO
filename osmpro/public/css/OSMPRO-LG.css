@@ -64,3 +64,14 @@
             font-family: 'Quache';
             font-weight: 900;
         }
+        text-center sign-up-message {
+            font-family: 'Quache';
+            font-weight: 900;
+        
+        }
+        .btn:not(.btn-md):not(.btn-lg) {
+            padding: 4px 8px;
+            font-size: 20px;
+            font-family: 'Quache';
+            font-weight: 900;
+        }
