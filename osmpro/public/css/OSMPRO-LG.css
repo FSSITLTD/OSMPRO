@@ -39,6 +39,15 @@
 
         input#login_email {
             font-family: Quache;
-            font-weight: 300;
+            font-weight: 900;
         }
-        
+        span.toggle-password.text-muted{
+            font-family: Quache;
+            font-weight: 900;
+
+        }
+        a {
+            font-family: Quache;
+            font-weight: 900;
+            color: #aa3660;
+        }
