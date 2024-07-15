@@ -31,6 +31,9 @@
     }
     .btn.btn-primary {
         background-color: #aa3660;
+        font-family: Quache;
+        font-weight: 900;
+        font-size: 20px;
     }
     h4 {
         font-family: Quache !important;
@@ -49,7 +52,8 @@
         a {
             font-family: Quache;
             font-weight: 900;
-            color: #aa3660;
+            font-size: 20px;
+            color: #aa3660 !important;
         }
         text-muted login-divider {
             font-family: Quache;
