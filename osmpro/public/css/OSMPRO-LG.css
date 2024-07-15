@@ -75,3 +75,8 @@
             font-family: 'Quache';
             font-weight: 900;
         }
+        .for-login .sign-up-message, .for-forgot .sign-up-message, .for-login-with-email-link .sign-up-message, .for-signup .sign-up-message, .for-email-login .sign-up-message {
+            font-size: 20px;
+            font-family: 'Quache';
+            font-weight: 900;
+        }
