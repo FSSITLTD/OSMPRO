@@ -45,5 +45,11 @@
             font-weight: 900 !important;
         }
 
-
+        .indicator-pill.green, .indicator-pill-right.green, .indicator-pill-round.green {
+            background: #55b66d;
+            color: #aa3660;
+            font-family: 'Quache';
+            font-weight: 900;
+            height: auto;
+        }
         
