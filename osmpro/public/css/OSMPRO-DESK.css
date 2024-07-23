@@ -64,3 +64,7 @@
         a#user-connections_tab-tab {
             background: coral;
         }
+        .widget.onboarding-widget-box .widget-body .onboarding-step.active, .widget.onboarding-widget-box .widget-body .onboarding-step:hover {
+            background-color: #f4d94c;
+        }
+        
