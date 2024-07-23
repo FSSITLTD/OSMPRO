@@ -26,9 +26,11 @@
     .page-card-head img {
         max-height: 142px !important;
     }
+    /* Hidden Nav bar disabled 
     nav.navbar.navbar-light.navbar-expand-lg {
         visibility: hidden;
     }
+        */
     .btn.btn-primary {
         background-color: #aa3660;
         font-family: Quache;

@@ -52,4 +52,15 @@
             font-weight: 900;
             height: auto;
         }
+        .btn.btn-default:hover, div#driver-popover-item .driver-popover-footer button.btn-default:hover, .btn.btn-default:active, div#driver-popover-item .driver-popover-footer button.btn-default:active {
+            background: #a14b4b;
+            color: var(--text-color);
+        }
         
+        
+        a#user-connections_tab-tab:hover {
+            background: green;
+        }
+        a#user-connections_tab-tab {
+            background: coral;
+        }
