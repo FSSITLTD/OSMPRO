@@ -3,6 +3,7 @@
     --control-bg: #abd8e5;
     --bg-color: white;
     --bg-color: #eff6be;
+
     }
     .navbar {
         height: 148px;
@@ -44,7 +45,7 @@
             font-family: Quache !important;
             font-weight: 900 !important;
         }
-
+        /* Active status  */
         .indicator-pill.green, .indicator-pill-right.green, .indicator-pill-round.green {
             background: #55b66d;
             color: #aa3660;
@@ -67,4 +68,29 @@
         .widget.onboarding-widget-box .widget-body .onboarding-step.active, .widget.onboarding-widget-box .widget-body .onboarding-step:hover {
             background-color: #f4d94c;
         }
+        /* Bell icon  */
+        svg.es-icon.icon-sm {
+            /* height: 20px; */
+            stroke: #f4d94c;
+            stroke-width: 2px;
+        }
+        /* Search Bar colour  */
+        svg.icon.icon-sm {
+            stroke: #4271d0;
+        }
+        /* Side bar text colour */
+        span.sidebar-item-label {
+            color: #16456e;
+            /* stroke: aliceblue; */
+        }
+        /* Side Bar */
+        .col-lg-2.layout-side-section {
+            background: #f4d94c;
+        }
         
+        b {
+            color: #aa3660;
+            font-size: 20px; 
+            font-family: Quache !important;
+            font-weight: 900 !important;
+        }
