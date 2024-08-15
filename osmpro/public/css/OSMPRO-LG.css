@@ -37,6 +37,12 @@
         font-weight: 900;
         font-size: 20px;
     }
+    .btn.btn-primary :hover {
+        background-color: #55aa36;
+        font-family: Quache;
+        font-weight: 900;
+        font-size: 20px;
+    }
     h4 {
         font-family: Quache !important;
         font-weight: 900 !important;
@@ -116,3 +122,8 @@
             color: #aa3660 !important;
 
         }
+
+        a.btn.btn-primary.btn-lg {
+            color: blue;
+        }
+        
