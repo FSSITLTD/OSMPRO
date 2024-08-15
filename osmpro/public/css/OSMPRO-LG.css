@@ -126,4 +126,6 @@
         a.btn.btn-primary.btn-lg {
             color: blue;
         }
-        
+        a.btn.btn-primary.btn-lg {
+            color: blue !important;
+        }
