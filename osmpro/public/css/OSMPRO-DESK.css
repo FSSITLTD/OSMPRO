@@ -106,12 +106,13 @@
             font-family: Quache !important;
             font-weight: 900 !important;
         }    
-        .widget.dashboard-widget-box .widget-subtitle {
+        /*.widget.dashboard-widget-box .widget-subtitle {
             color: #aa3660;
             font-size: 20px; 
             font-family: Quache !important;
             font-weight: 900 !important;
         }
+            */
         /* width */
 ::-webkit-scrollbar {
     width: 20px;
