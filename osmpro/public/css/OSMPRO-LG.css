@@ -26,13 +26,106 @@
     .page-card-head img {
         max-height: 142px !important;
     }
+    /* Hidden Nav bar disabled 
     nav.navbar.navbar-light.navbar-expand-lg {
         visibility: hidden;
     }
+        */
     .btn.btn-primary {
         background-color: #aa3660;
+        font-family: Quache;
+        font-weight: 900;
+        font-size: 20px;
+    }
+    .btn.btn-primary :hover {
+        background-color: #55aa36;
+        font-family: Quache;
+        font-weight: 900;
+        font-size: 20px;
     }
     h4 {
         font-family: Quache !important;
         font-weight: 900 !important;
+        }
+
+        input#login_email {
+            font-family: Quache;
+            font-weight: 900;
+        }
+        span.toggle-password.text-muted{
+            font-family: Quache;
+            font-weight: 900;
+
+        }
+        a {
+            font-family: Quache;
+            font-weight: 900;
+            font-size: 20px;
+            color: #aa3660 !important;
+        }
+        text-muted login-divider {
+            font-family: Quache;
+            font-weight: 900;
+            color: #aa3660;
+        }
+        button.btn.btn-sm.btn-primary.btn-block.btn-login {
+            font-family: 'Quache';
+            font-weight: 900;
+        }
+        a.btn.btn-block.btn-default.btn-sm.btn-login-option.btn-login-with-email-link {
+            font-family: 'Quache';
+            font-weight: 900;
+        }
+        text-center sign-up-message {
+            font-family: 'Quache' !important;
+            font-weight: 900 !important;
+        
+        }
+        .btn:not(.btn-md):not(.btn-lg) {
+            padding: 4px 8px;
+            font-size: 20px;
+            font-family: 'Quache';
+            font-weight: 900;
+        }
+        .for-login .sign-up-message, .for-forgot .sign-up-message, .for-login-with-email-link .sign-up-message, .for-signup .sign-up-message, .for-email-login .sign-up-message {
+            font-size: 20px !important;
+            font-family: 'Quache'!important;
+            font-weight: 900 !important;
+            color: #aa3660 !important;
+        }
+        .forgot-password-message{
+            font-size: 20px !important;
+            font-family: 'Quache'!important;
+            font-weight: 900 !important;
+
+        }
+        .for-login .page-card .page-card-body .login-divider, .for-forgot .page-card .page-card-body .login-divider, .for-login-with-email-link .page-card .page-card-body .login-divider, .for-signup .page-card .page-card-body .login-divider, .for-email-login .page-card .page-card-body .login-divider {
+            font-family: 'Quache';
+            font-size: 20px;
+            color: #aa3660;
+        }
+        .for-login .page-card .page-card-body .forgot-password-message>*, .for-forgot .page-card .page-card-body .forgot-password-message>*, .for-login-with-email-link .page-card .page-card-body .forgot-password-message>*, .for-signup .page-card .page-card-body .forgot-password-message>*, .for-email-login .page-card .page-card-body .forgot-password-message>* {
+            font-family: 'Quache';
+            font-size: 15px;
+            color: #aa3660;
+        }
+    
+        .for-login .page-card .page-card-body .email-field input, .for-login .page-card .page-card-body .password-field input, .for-forgot .page-card .page-card-body .email-field input, .for-forgot .page-card .page-card-body .password-field input, .for-login-with-email-link .page-card .page-card-body .email-field input, .for-login-with-email-link .page-card .page-card-body .password-field input, .for-signup .page-card .page-card-body .email-field input, .for-signup .page-card .page-card-body .password-field input, .for-email-login .page-card .page-card-body .email-field input, .for-email-login .page-card .page-card-body .password-field input{
+            font-family: 'Quache';
+            font-size: 15px;
+            color: #aa3660 !important;
+
+        }
+        .page-card-body .email-field input, .for-login .page-card .page-card-body .password-field input, .for-forgot .page-card .page-card-body .email-field input, .for-forgot .page-card .page-card-body .password-field input, .for-login-with-email-link .page-card .page-card-body .email-field input, .for-login-with-email-link .page-card .page-card-body .password-field input, .for-signup .page-card .page-card-body .email-field input, .for-signup .page-card .page-card-body .password-field input, .for-email-login .page-card .page-card-body .email-field input, .for-email-login .page-card .page-card-body .password-field input {
+            font-family: 'Quache' !important;
+            font-size: 20px !important;
+            color: #aa3660 !important;
+
+        }
+
+        a.btn.btn-primary.btn-lg {
+            color: blue;
+        }
+        a.btn.btn-primary.btn-lg {
+            color: blue !important;
         }
