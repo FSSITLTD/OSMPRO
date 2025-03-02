@@ -137,6 +137,7 @@
     FONT-FAMILY: 'Quache';
     FONT-WEIGHT: 900;
   }
-  .modal-content { /*popup window*/
-    background: cadetblue;
+
+:root, [data-theme=light] {
+--modal-bg: #9975b8;
 }
