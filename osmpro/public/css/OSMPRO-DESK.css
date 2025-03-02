@@ -34,3 +34,11 @@
             font-family: Quache !important;
             font-weight: 900 !important;
         }
+        .control-label, .grid-heading-row {
+            color: #4abbba;
+            font-size: var(--text-sm);
+            /* font-weight: var(--weight-regular); */
+            letter-spacing: .02em;
+            FONT-FAMILY: 'Quache';
+            FONT-WEIGHT: 900;
+        }
