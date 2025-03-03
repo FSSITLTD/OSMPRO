@@ -146,3 +146,6 @@
 background-color: #cad042;
 
 }
+ul.dropdown-menu.dropdown-menu-right.show { /*drop down account menu*/
+    background: #5cc4ef;
+}
