@@ -1,8 +1,8 @@
 :root, [data-theme=light] {
     --navbar-bg: #d1d8dd;
     --control-bg: #abd8e5;
-    --orange-avatar-color: #3d1f57 ;
-    --orange-avatar-bg: #a8c486b5 ;
+    --orange-avatar-color: #3d1f57 !important ;
+    --orange-avatar-bg: #a8c486b5 !important ;
     }
     
     .navbar {
