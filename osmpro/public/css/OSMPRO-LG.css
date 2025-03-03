@@ -4,7 +4,7 @@
     }
     
     .navbar {
-        height: 50%;
+        height: 350%;
         background: var(--navbar-bg);
     }
     .navbar-home img {
