@@ -140,6 +140,8 @@
 
 :root, [data-theme=light] {
 --modal-bg: #9975b8;
+--orange-avatar-color: #3d1f57 ;
+
 }
 
 .btn.btn-default:hover, div#driver-popover-item .driver-popover-footer button.btn-default:hover, .btn.btn-default:active, div#driver-popover-item .driver-popover-footer button.btn-default:active {
