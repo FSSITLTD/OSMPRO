@@ -1,0 +1,12 @@
+[
+    {
+        "doctype": "Custom Field",
+        "dt": "Employee",
+        "module":"osmpro",
+        "name": "Employee-age",
+        "fieldname": "age",
+        "fieldtype": "Int",
+        "label": "age",
+        "insert_after": "status"
+    }
+]
