@@ -44,6 +44,7 @@ web_include_css = [
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
+doctype_js = {"Employee":"public/js/employee.js"}
 # Svg Icons
 # ------------------
 # include app icons in desk
