@@ -1,5 +1,6 @@
 frappe.ui.form.on("Employee",  {
     date_of_birth (frm){
+        cur_frm.set_df_property("age","read_only",1);
         var birthdate = frm.doc.date_of_birth; 
 
 
@@ -10,7 +11,7 @@ frappe.ui.form.on("Employee",  {
         age--;
     
     frm.set_value("age",age);
-    cur_frm.set_df_property("age","read_only",1);
+   
 
 
     }
