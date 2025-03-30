@@ -8,7 +8,11 @@ frappe.ui.form.on("Employee",  {
     var age = today.getFullYear() -dobDate.getFullYear();
     if (today.getMonth() < dobDate.getMonth() || (today.getMonth() == dobDate.getMonth() && today.getDate() < dobDate.getDay()))
         age--;
+    
     frm.set_value("age",age);
+    cur_frm.set_df_property("age","read_only",1);
+
+
     }
 
      });
