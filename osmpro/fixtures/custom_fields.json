@@ -5,7 +5,7 @@
         "module":"osmpro",
         "name": "Employee-age",
         "fieldname": "age",
-        "fieldtype": "Int",
+        "fieldtype": "read only",
         "label": "age",
         "insert_after": "status"
         
