@@ -8,5 +8,15 @@
         "fieldtype": "Data",
         "label": "age",
         "insert_after": "status"
+    },
+    {
+        "doctype": "Custom Field",
+        "dt": "Employee",
+        "module":"osmpro",
+        "name": "form-name",
+        "fieldname": "formname",
+        "fieldtype": "html",
+        "label": "formname",
+        "insert_after": "status"
     }
 ]
