@@ -15,7 +15,7 @@
         "module":"osmpro",
         "name": "form-name",
         "fieldname": "formname",
-        "fieldtype": "html",
+        "fieldtype": "HTML",
         "label": "formname",
         "insert_after": "status"
     }
