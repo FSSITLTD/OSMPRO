@@ -9,7 +9,7 @@ frappe.ui.form.on("Employee",  {
     if (today.getMonth() < dobDate.getMonth() || (today.getMonth() == dobDate.getMonth() && today.getDate() < dobDate.getDay()))
         age--;
     
-    frm.set_value("age",age);
+    frm.set_value("age",age,birthdate);
    
 
 
