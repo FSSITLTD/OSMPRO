@@ -23,7 +23,7 @@ frappe.ui.form.on("Employee",  {
                 
                     var formname = frm.doc.employee_name;
                     var number = frm.doc.employee_number;
-                 
+                    var all = formname && number;
        
         
        
@@ -31,7 +31,7 @@ frappe.ui.form.on("Employee",  {
         
         
         
-        frm.set_value("formname",formname,number);
+        frm.set_value("formname",all);
     
     
         }
