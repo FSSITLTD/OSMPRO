@@ -13,7 +13,7 @@
         "doctype": "Custom Field",
         "dt": "Employee",
         "module":"osmpro",
-        "name": "form-name",
+        "name": "formname",
         "fieldname": "formname",
         "fieldtype": "Data",
         "label": "formname",
