@@ -11,7 +11,7 @@ frappe.ui.form.on("Employee",  {
         age--;
     
     frm.set_value("age",age);
-    frm.set_value("form-name",birthdate);
+    frm.set_value("form-name",formname,birthdate);
 
 
     }
