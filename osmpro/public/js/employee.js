@@ -2,7 +2,7 @@ frappe.ui.form.on("Employee",  {
     date_of_birth (frm){
                 var birthdate = frm.doc.date_of_birth; 
                 var formname = frm.doc.employee_name && frm.doc.employee_number;
-
+                frm.doc.employee_name && frm.doc.employee_number == formname;
     var dobDate = new Date(birthdate);
     var today = new Date();
     var age = today.getFullYear() -dobDate.getFullYear();
@@ -12,6 +12,7 @@ frappe.ui.form.on("Employee",  {
     
     frm.set_value("age",age);
     frm.set_value("formname",formname,birthdate);
+    frm.set_value("formname",formname);
 
 
     }
