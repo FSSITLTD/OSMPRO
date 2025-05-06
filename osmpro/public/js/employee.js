@@ -19,7 +19,7 @@ frappe.ui.form.on("Employee",  {
 
      });
      frappe.ui.form.on("Employee",  {
-        employee_name(frm){
+        first_name(frm){
                 
                     var formname = frm.doc.employee_name && frm.doc.employee_number;
                  
@@ -28,8 +28,8 @@ frappe.ui.form.on("Employee",  {
        
         
         
-        frm.set_value("age",age);
-        frm.set_value("formname",formname,birthdate);
+        
+        
         frm.set_value("formname",formname);
     
     
